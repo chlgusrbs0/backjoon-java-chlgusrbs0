@@ -1,0 +1,10 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# 작업용 문제 풀이 공간
+workspace/
+
+# Java build files
+*.class
