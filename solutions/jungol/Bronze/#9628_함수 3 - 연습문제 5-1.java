@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.println(Fib(7));
+        System.out.println(Fib(sc.nextInt()));
     }
 
     static int Fib(int num) {
